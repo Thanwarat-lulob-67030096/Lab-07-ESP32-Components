@@ -1,0 +1,9 @@
+build/
+sdkconfig*
+.vscode/
+.idea/
+managed_components/
+dependencies.lock
+*.log
+.DS_Store
+Thumbs.db
